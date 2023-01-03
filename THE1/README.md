@@ -1,2 +1,2 @@
-# CENG483-Computer-Vision
-Homeworks of the CENG483: Introduction to Computer Vision
+# CENG483-Computer-Vision THE1
+THE1 Task and Implementation
